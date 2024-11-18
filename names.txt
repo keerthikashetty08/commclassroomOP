@@ -10,3 +10,8 @@ I'm modifying this file to learn pull request.
 this is added to show the changes made in the keer branch
 
 this change is made to check the pr from pov of comits to main
+
+so as per comment:
+learnt how to unstage a commit form pr and then stash it and later force push to changes to origin to remove a commit in pr, thiss is learnt 
+
+now experimenting on: how to work on the comment added and modify according to it and then see the merge pull request.
